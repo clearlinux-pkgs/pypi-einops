@@ -7,7 +7,7 @@
 #
 Name     : pypi-einops
 Version  : 0.8.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/79/ca/9f5dcb8bead39959454c3912266bedc4c315839cee0e0ca9f4328f4588c1/einops-0.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/79/ca/9f5dcb8bead39959454c3912266bedc4c315839cee0e0ca9f4328f4588c1/einops-0.8.0.tar.gz
 Summary  : A new flavour of deep learning operations
