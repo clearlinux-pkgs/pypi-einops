@@ -1,5 +1,5 @@
 PKG_NAME := pypi-einops
-URL = https://files.pythonhosted.org/packages/79/ca/9f5dcb8bead39959454c3912266bedc4c315839cee0e0ca9f4328f4588c1/einops-0.8.0.tar.gz
+URL = https://files.pythonhosted.org/packages/e5/81/df4fbe24dff8ba3934af99044188e20a98ed441ad17a274539b74e82e126/einops-0.8.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
